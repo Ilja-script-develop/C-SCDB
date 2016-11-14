@@ -1,0 +1,11 @@
+C:\Users\Vladislav\Desktop\MathGame\Управление БД\Управление БД\bin\Debug\Управление БД.exe.config
+C:\Users\Vladislav\Desktop\ВЗК382с\Построение систем управления бд-\Управление БД\Управление БД\bin\Debug\Управление БД.exe.config
+C:\Users\Vladislav\Desktop\ВЗК382с\Построение систем управления бд-\Управление БД\Управление БД\bin\Debug\Управление БД.exe
+C:\Users\Vladislav\Desktop\ВЗК382с\Построение систем управления бд-\Управление БД\Управление БД\bin\Debug\Управление БД.pdb
+C:\Users\Vladislav\Desktop\ВЗК382с\Построение систем управления бд-\Управление БД\Управление БД\obj\Debug\Управление БД.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\ВЗК382с\Построение систем управления бд-\Управление БД\Управление БД\obj\Debug\Управление_БД.Form1.resources
+C:\Users\Vladislav\Desktop\ВЗК382с\Построение систем управления бд-\Управление БД\Управление БД\obj\Debug\Управление_БД.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\ВЗК382с\Построение систем управления бд-\Управление БД\Управление БД\obj\Debug\Управление БД.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\ВЗК382с\Построение систем управления бд-\Управление БД\Управление БД\obj\Debug\Управление БД.exe
+C:\Users\Vladislav\Desktop\ВЗК382с\Построение систем управления бд-\Управление БД\Управление БД\obj\Debug\Управление БД.pdb
+C:\Users\Vladislav\Desktop\ВЗК382с\Построение систем управления бд-\Управление БД\Управление БД\bin\Debug\DataBase.mdb
